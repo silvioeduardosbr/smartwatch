@@ -1,0 +1,127 @@
+body{
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Mina', sans-serif;
+
+}
+html {
+	background-color: #000;
+}
+div#topo {
+
+	background:#000;
+
+	height:250px;
+}
+
+div#logo {
+
+	position:absolute;
+	left: 100px;
+	margin-top:90px;
+
+}
+
+div#menu {
+
+	width:600px;
+	height:70px;
+	margin-top:147px;
+	float:right;
+}
+
+div#menu li{
+	display: inline;
+
+}
+
+div#menu a{
+
+	padding: 2px 10px;
+	font-family: Verdana;
+	font-size:23px;
+	color:white;
+	text-decoration:none;
+	margin-left:10px;
+}
+div#menu a:hover{
+	color:#FF8C00;
+
+}
+
+div#meio {
+	background:#000;
+	width:1200px;
+	height:1000px;
+	margin:0 auto;
+
+}
+
+div#foto {
+
+	width:200px;
+	height:100px;
+
+
+}
+
+h1.titulo {
+	width:1249px;
+	height:47px;
+	margin:0 auto;
+  font-family: Lucida Console;
+	color:#EE7600;
+	background-color:#000;
+	text-align: center;
+}
+
+h2.subtitulo {
+	background-color:#000;
+	color:#EE7600;
+	font-family: Palacio;
+	text-align: center;
+margin:0 auto;
+}
+h2.descrição {
+	background-color:#000;
+	color:#EE7600;
+	font-family:Lucida Console;
+	text-align: left;
+}
+
+span {
+	backgroun-color:#5F9EA0;
+}
+
+p{
+	font-size:25px;
+	font-family:fantasy;
+}
+
+.carousel-item{
+	position: absolute;
+	width: 1200px;
+	height: 500px;
+}
+form {
+
+	left: 970px;
+	margin-top:10px;
+	width: 600px;
+
+}
+footer {
+	background-color: #000;
+}
+label{
+	color: white;
+}
+div.social {
+	right:
+}
+div#sean {
+		position: absolute;
+	right: 100px;
+	margin-bottom: 15px;
+
+}
